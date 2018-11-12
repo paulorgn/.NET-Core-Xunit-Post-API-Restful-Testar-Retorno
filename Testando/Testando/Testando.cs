@@ -9,7 +9,7 @@ namespace Testando
     public class Testando
     {
         [Fact]
-        public void DADO_oRetornoDaApi_QUANDO_oCodigoDeRetornoFor200_ENTAO_oTesteTeraSucesso()
+        public void DADO_oRetornoDaApi_QUANDO_oIdRetornadoFor101_ENTAO_oTesteTeraSucesso()
         {
             ApiDeTeste apiDeTeste = new ApiDeTeste();
 
@@ -20,8 +20,7 @@ namespace Testando
 
             var retornoDaAPI = apiDeTeste.PegarRetornoDaAPI(dtoObjetoExemplo);
 
-            int statusCodeSucesso = 200;
-            Assert.Equal(statusCodeSucesso, retornoDaAPI);
+            Assert.Equal(101, retornoDaAPI.id);
         }
     }
 }

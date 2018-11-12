@@ -15,7 +15,6 @@ namespace Testando.Servicos
             {
                 HttpClient cliente = new HttpClient();
 
-                cliente.Timeout = new TimeSpan(12000000);
                 cliente.BaseAddress = new Uri("https://jsonplaceholder.typicode.com");
                 cliente.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
 
@@ -47,13 +46,21 @@ namespace Testando.Servicos
 
         public StringContent prepararParametroParaEnviarNoPost(DtoObjetoExemplo dtoObjetoExemplo)
         {
-            var content = Newtonsoft.Json.JsonConvert.SerializeObject(dtoObjetoExemplo);
-            StringContent httpContent = new System.Net.Http.StringContent(content, Encoding.UTF8, "application/json");
+            try
+            {
+                var content = Newtonsoft.Json.JsonConvert.SerializeObject(dtoObjetoExemplo);
+                StringContent httpContent = new System.Net.Http.StringContent(content, Encoding.UTF8, "application/json");
 
-            return httpContent;
+                return httpContent;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public int PegarRetornoDaAPI(DtoObjetoExemplo dtoObjetoExemplo)
+        public DtoObjetoExemplo PegarRetornoDaAPI(DtoObjetoExemplo dtoObjetoExemplo)
         {
             try
             {
@@ -64,16 +71,15 @@ namespace Testando.Servicos
                     string stringRetornoDaApi = resposta.Content.ReadAsStringAsync().Result.ToString();
                     DtoObjetoExemplo retornoDaAPI = JsonConvert.DeserializeObject<DtoObjetoExemplo>(stringRetornoDaApi);
 
-                    return 200;
+                    return retornoDaAPI;
                 }
                 else
                 {
-                    return 0;
+                    throw new Exception("A requisição não obteve uma resposta do servidor");
                 }
             }
             catch (Exception)
             {
-
                 throw;
             }
         }
