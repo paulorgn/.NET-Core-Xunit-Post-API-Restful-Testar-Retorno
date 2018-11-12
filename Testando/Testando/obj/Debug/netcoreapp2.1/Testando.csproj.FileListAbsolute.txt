@@ -1,0 +1,42 @@
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.deps.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.pdb
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.pdb
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.deps.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.pdb
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Testando-Retorno-de-API-Restful - Copia\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.pdb
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.deps.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\bin\Debug\netcoreapp2.1\Testando.pdb
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-Xunit-Post-API-Restful-Testar-Retorno\Testando\Testando\obj\Debug\netcoreapp2.1\Testando.pdb
